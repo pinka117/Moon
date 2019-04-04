@@ -1,15 +1,12 @@
 ---
 layout: post
 title:  "Reactive spring product manager"
-date:   2016-04-06
+date:   2018-07-13
 excerpt: "des"
 project: true
 tag:
-- jekyll 
-- moon
-- blog
-- about
-- theme
+- spring
+- java
 comments: true
 ---
 A project with Spring
