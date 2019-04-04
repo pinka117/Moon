@@ -7,6 +7,6 @@ project: true
 tag:
 - spring
 - java
-comments: true
+comments: false
 ---
 A project with Spring
