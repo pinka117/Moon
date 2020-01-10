@@ -1,6 +1,6 @@
 # Site
-title:              Linda
-bio:                'Programmer'
+title:              Linda Paolieri
+bio:                'Programmer - Open source enthusiast'
 description:        " "
 reading_time:       true
 words_per_minute:   200
@@ -36,7 +36,7 @@ sass:
   #ad-client:
   #ad-slot:
 #bing-verify:
-email:              me@lindapaolieri.com           
+email:              me@lindapaolieri.com
 #twitter:            username
 #facebook:           username
 github-url:         pinka117
